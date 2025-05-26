@@ -134,8 +134,6 @@ _Phases:_
 **Community:**
 - Blender Artists Forum
 - r/MachineLearning
-- OpenAI Discord
-
 ---
 
 ## 🏁 Final Note
